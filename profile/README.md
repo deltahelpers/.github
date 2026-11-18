@@ -1,4 +1,4 @@
-
+![GitHub Org's stars](https://img.shields.io/github/stars/deltahelpers)
 
 # DELTAHELPERS
 <sub>another DELTARUNE modder team</sub>
